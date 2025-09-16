@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @veeranjireddy2002
-- 👀 I’m interested in data security 
+- 👀 I’m interested in fusion 360/ QA 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
